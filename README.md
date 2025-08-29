@@ -11,12 +11,12 @@ Impact of dentists and implant methods on metal implant hardness
 
 The insights aim to support data-driven decision-making and improve operational efficiency.
 
-Skills & Tools Covered
+**Skills & Tools Covered**
 
-Probability
+- Probability
 
-Probability Distributions
+- Probability Distributions
 
-Hypothesis Testing
+- Hypothesis Testing
 
-ANOVA
+- ANOVA
